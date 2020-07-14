@@ -1,0 +1,12 @@
+claims
+claims.o
+claims.d
+claims_stan.py
+claims_stan_files/*
+.ipynb_checkpoints/*
+claims.hpp
+claims.pkl
+claims.stan
+claims_stan.ipynb
+envelope.ipynb
+
